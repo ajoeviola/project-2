@@ -1,0 +1,40 @@
+.large {
+    margin-top: 50px;
+    font-size: 100px;
+}
+
+.gallery {
+    display: block;
+    margin-top: 50px;
+    width: 500px;
+}
+
+p {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 50px;
+    font-size: 100px;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.smaller-text {
+    font-size: 40px;
+}
+
+.green {
+    color: green;
+}
+
+.check-box {
+    width: 35px;
+    height: 35px;
+    margin-top: 50px;
+}
+
+.checkout {
+    margin: auto;
+    width: 200px;
+}

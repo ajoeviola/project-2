@@ -1,0 +1,16 @@
+p {
+    font-size: 18px;
+    margin: auto;
+    padding-top: 35px;
+}
+
+fieldset {
+    font-size: 18px;
+    width: 75%;
+    margin: auto;
+
+}
+
+.h100 {
+    height: 100px;
+}
